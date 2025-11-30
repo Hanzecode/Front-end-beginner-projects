@@ -17,8 +17,3 @@ This repo is useful for:
 - Beginners learning JavaScript fundamentals (variables, loops, conditionals, functions)  
 - Practicing small standalone scripts without a build-system or framework  
 - Experimenting with basic JavaScript + HTML/CSS to understand how web / console logic works  
-
-## 🚀 How to Use  
-1. Clone or download the repository:  
-   ```bash
-   git clone https://github.com/Hanzecode/javascript.git
