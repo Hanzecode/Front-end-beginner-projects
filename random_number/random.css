@@ -1,0 +1,16 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#numbers {
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+
+#button{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+}

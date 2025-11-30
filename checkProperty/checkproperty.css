@@ -1,0 +1,51 @@
+/* Reset some default spacing */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    padding: 30px;
+}
+
+/* Container styling (optional) */
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 350px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for inputs and labels */
+input[type="checkbox"],
+input[type="radio"] {
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+label {
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* Button styling */
+#button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #0066ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#button:hover {
+    background-color: #004bcc;
+}
+
+/* Output text */
+#output {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
